@@ -27,9 +27,9 @@ git clone https://github.com/septicmk/DBLP_Analysis.git
 - config  
 With a little config in the DBLPA, you can set the conferences that you are interested in and the search keywords used to filter out the target. Don't forget to set the year!  
 ```python
-conf\_lists = ['usenix', 'eurosys', 'osdi', 'sosp', 'ics', 'spaa', 'ppopp', 'ipps', 'sc']
+conf_lists = ['usenix', 'eurosys', 'osdi', 'sosp', 'ics', 'spaa', 'ppopp', 'ipps', 'sc']
 years = [ '2010', '2011', '2012', '2013', '2014', '2015', '2016']
-key\_words\_include = [ 'GPU' ]
+key_words_include = [ 'GPU' ]
 ```
 
 
