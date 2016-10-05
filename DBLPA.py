@@ -15,7 +15,6 @@ url_base='http://dblp.uni-trier.de/db/conf/'
 conf_lists = ['usenix', 'eurosys', 'osdi', 'sosp', 'ics', 'spaa', 'ppopp', 'ipps', 'sc']
 years = [ '2010', '2011', '2012', '2013', '2014', '2015', '2016']
 query_conf_lists = conf_lists
-#key_words_include = [ 'RDMA', 'InfiniBand', 'HTM' ]
 key_words_include = [ 'GPU' ]
 key_words_exclude = []
 
