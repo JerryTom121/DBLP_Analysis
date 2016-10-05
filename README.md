@@ -12,9 +12,9 @@ GPU tread:
 
 # Requirement
 
-python 2.7+  
-    - matplotlib
-    - urllib2
+python 2.7+    
+- matplotlib  
+- urllib2
 
 # Quick Start  
 
