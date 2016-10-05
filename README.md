@@ -34,7 +34,7 @@ key_words_include = [ 'GPU' ]
 
 
 - run  
-Fetch the infomation about your conferences.(this step may takes a **looooooooong** time.)  
+Fetch the infomation about your conferences.(this step may take a **looooooooong** time.)  
 ```python
 python DBLPA.py -f
 ```
