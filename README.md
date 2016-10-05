@@ -18,13 +18,13 @@ python 2.7+
 
 # Quick Start  
 
-- download  
+## Download  
 you should get the DBLPA via git clone:  
 ```shell
 git clone https://github.com/septicmk/DBLP_Analysis.git
 ```
 
-- config  
+## Config  
 With a little config in the DBLPA, you can set the conferences that you are interested in and the search keywords used to filter out the target. Don't forget to set the year!  
 ```python
 conf_lists = ['usenix', 'eurosys', 'osdi', 'sosp', 'ics', 'spaa', 'ppopp', 'ipps', 'sc']
@@ -33,7 +33,7 @@ key_words_include = [ 'GPU' ]
 ```
 
 
-- run  
+## Run  
 Fetch the infomation about your conferences.(this step may take a **looooooooong** time.)  
 ```python
 python DBLPA.py -f
