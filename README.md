@@ -5,10 +5,10 @@ DBLPA is analysis tool which can help you find out the research trend in Recent 
 
 
 hadoop tread:  
-![](http://github.com/septicmk/DBLP_Analysis/raw/master/hadoop.png)
+![](https://raw.githubusercontent.com/septicmk/DBLP_Analysis/master/hadoop.png)
 
 GPU tread:  
-![](http://github.com/septicmk/DBLP_Analysis/raw/master/GPU.png)
+![](https://raw.githubusercontent.com/septicmk/DBLP_Analysis/master/GPU.png)
 
 # Requirement
 
